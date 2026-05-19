@@ -362,28 +362,24 @@ Toàn bộ tiến trình dạy học gồm 4 hoạt động chính (1. Khởi đ
   </tr>
   <tr>
     <td valign="top">
-      <b>Bước 1: Chuyển giao nhiệm vụ</b><br>
-      - Lời chuyển ý: "[Ghi nguyên văn câu nói của GV để dẫn dắt, kích thích sự tò mò của HS vào nhiệm vụ]".<br>
-      - Phương thức giao nhiệm vụ: [Mô tả rõ GV thao tác gì, ví dụ: trình chiếu slide câu hỏi lên bảng tương tác, phát phiếu học tập số 1, hay gửi link vào nhóm lớp].<br>
-      - NỘI DUNG ĐỀ BÀI / YÊU CẦU (BẮT BUỘC GHI TRỌN VẸN VÀO ĐÂY): "[Bạn BẮT BUỘC phải viết toàn bộ nguyên văn nội dung câu hỏi, đề bài toán, bài tập SGK hoặc yêu cầu thực hành. TUYỆT ĐỐI KHÔNG ghi chung chung kiểu 'GV cho HS làm bài tập'. BẮT BUỘC dùng thẻ br tách dòng TỪNG ĐÁP ÁN A, B, C, D nếu có và tách từng ý a) b) c) ... nếu có]".<br>
+      <b>Bước 1: Chuyển giao nhiệm vụ (Thời gian: [Số] phút)</b><br>
+      - [Ghi nguyên văn một câu thoại của GV để dẫn dắt, kích thích sự tò mò]. Sau đó [Mô tả hành động GV trình chiếu slide, phát phiếu học tập hay gửi link].<br>
+      - [BẮT BUỘC chép nguyên văn 100% nội dung câu hỏi, đề bài, bài tập SGK hoặc yêu cầu thực hành vào đây. Tuyệt đối không tự thêm các từ nhãn dán như "Nội dung đề bài:". TUYỆT ĐỐI KHÔNG ghi chung chung kiểu 'GV cho HS làm bài tập'. Phải dùng thẻ br tách dòng TỪNG ĐÁP ÁN A, B, C, D nếu có và tách từng ý a) b) c) ... nếu có].<br>
       <b>Bước 2: Thực hiện nhiệm vụ</b><br>
-      - Thao tác GV (Pha 1): [Mô tả chi tiết GV mở nền tảng/phần mềm gì, thao tác tạo mã QR/Link ra sao, chiếu lên màn hình lớn như thế nào].<br>
-      - Thao tác HS (Pha 2): [Mô tả chi tiết HS dùng thiết bị gì, truy cập vào đâu, bắt đầu thao tác gì trên giao diện như click, kéo thả, vẽ đồ thị, hay chụp ảnh nộp bài].<br>
-      - Diễn biến trực tiếp (Pha 3): [Mô tả không khí realtime: Màn hình của GV đang hiển thị bảng xếp hạng nhảy liên tục, hay lưới ảnh bài làm của HS đang dần hiện lên].<br>
-      - Hỗ trợ & Gỡ rối: [Dự đoán chính xác 1 lỗi sai/khó khăn phổ biến mà HS sẽ gặp phải khi làm bài. Ghi nguyên văn câu gợi ý của GV để giúp HS vượt qua].<br>
+      - [Mô tả liền mạch thao tác của GV mở nền tảng gì, tạo mã QR/Link ra sao, chiếu lên màn hình lớn thế nào, và HS dùng thiết bị gì để truy cập, tương tác kéo thả/vẽ/chụp ảnh ra sao].<br>
+      - [Mô tả không khí realtime trên màn hình GV]. [Dự đoán 1 lỗi sai HS thường gặp] và "[Ghi nguyên văn câu gợi ý gỡ rối của GV]".<br>
       <b>Bước 3: Báo cáo, thảo luận</b><br>
-      - Kịch bản gọi tên: [Mô tả GV chỉ định ngẫu nhiên hay chọn nhóm làm nhanh nhất lên trình bày, hoặc GV tự mở bài của 1 nhóm trên nền tảng số để cả lớp xem].<br>
-      - Phản biện chéo: "[Ghi nguyên văn câu hỏi của GV dùng để kích thích các HS/Nhóm khác nhận xét, tìm lỗi sai của bạn]".<br>
-      - Câu hỏi đào sâu: "[Ghi nguyên văn 1 câu hỏi mở rộng nhằm kích thích tư duy cho HS khá giỏi]".<br>
+      - [Mô tả cách GV gọi nhóm báo cáo hoặc mở trực tiếp bài của 1 nhóm trên nền tảng số]. "[Ghi nguyên văn câu hỏi của GV kích thích các nhóm khác phản biện chéo]".<br>
+      - "[Ghi nguyên văn 1 câu hỏi đào sâu mở rộng của GV dành cho HS khá giỏi]".<br>
       <b>Bước 4: Kết luận, nhận định</b><br>
-      - Khai thác dữ liệu số (Pha 4): [Mô tả cách GV nhìn vào dữ liệu từ phần mềm (vd: phổ điểm, tỷ lệ sai câu 2 cao) để phân tích và xoáy sâu vào lỗi sai đó].<br>
-      - Chốt kiến thức: "[Ghi nguyên văn lời GV chốt lại đáp án chuẩn và kiến thức trọng tâm của hoạt động]".<br>
-      - Đánh giá: [GV dùng công cụ/rubric gì để chấm điểm nhanh, tuyên dương sự cố gắng của HS].
+      - [Mô tả cách GV nhìn vào dữ liệu từ nền tảng số (vd: phổ điểm, tỷ lệ sai) để xoáy sâu phân tích].<br>
+      - "[Ghi nguyên văn lời GV chốt kiến thức trọng tâm]". [Mô tả hành động GV dùng rubric chấm điểm/tuyên dương].
     </td>
     <td valign="top">
-      <b>1. Nội dung kiến thức / Kết quả thực hiện:</b><br>
-      - [Ghi thẳng đáp án cuối cùng, lời giải từng bước chi tiết, hoặc mô tả hình thái sản phẩm số mà HS tạo ra].<br>
-      - (TUYỆT ĐỐI KHÔNG ghi lại/chép lại đề bài vào cột này. Mọi nội dung Toán học phải dùng chuẩn định dạng LaTeX. BẮT BUỘC dùng thẻ br để ngắt dòng cho từng ý a), b), c) và ngắt dòng các công thức toán học dài để chống vỡ bảng).
+      <b>[Ghi chính xác Tiêu đề nội dung kiến thức hoặc Tên bài tập]</b><br>
+      - [Ghi trọn vẹn 100% nội dung lý thuyết cốt lõi, định nghĩa, quy tắc hoặc lời giải chi tiết bài toán từng bước một. ĐÂY CHÍNH LÀ NỘI DUNG GV SẼ TRÌNH CHIẾU SLIDE HOẶC TRỰC TIẾP VIẾT BẢNG để học sinh ghi chép kiến thức vào vở].<br>
+      - [Đối với nhiệm vụ thực hành hoặc sản phẩm số, ghi rõ nội dung/hình thái đáp án chuẩn xác cuối cùng mà HS cần phải đạt được sau khi GV chốt kiến thức].<br>
+      - (TUYỆT ĐỐI KHÔNG ghi lại/chép lại đề bài vào cột này. Mọi nội dung Toán học bắt buộc phải dùng chuẩn định dạng LaTeX. BẮT BUỘC dùng thẻ br để ngắt dòng cho từng ý a), b), c) và ngắt dòng các công thức toán học quá dài để tránh lỗi tràn dòng, vỡ bảng Word).
     </td>
     <td valign="top">
       - <b>[Mã NLS]:</b> [Tên biểu hiện năng lực] + [Mô tả hành động số cực kỳ chi tiết của HS. Ví dụ: HS sử dụng điện thoại thông minh quét mã QR truy cập Wayground, nhập tên thật và thao tác chọn đáp án trên màn hình].
