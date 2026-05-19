@@ -363,24 +363,30 @@ Toàn bộ tiến trình dạy học gồm 4 hoạt động chính (1. Khởi đ
   <tr>
     <td valign="top">
       <b>Bước 1: Chuyển giao nhiệm vụ</b><br>
-      - Thời gian dự kiến: ... phút.<br>
-      - Lời chuyển ý: "..."<br>
-      - GV trình chiếu và giao nhiệm vụ cho HS: "[Viết rõ toàn bộ nội dung câu hỏi, đề bài, bài tập hoặc yêu cầu thực hành vào đây. BẮT BUỘC dùng thẻ br tách dòng TỪNG ĐÁP ÁN A, B, C, D nếu có và tách từng ý a) b) c) ... nếu có]".<br>
+      - Lời chuyển ý: "[Ghi nguyên văn câu nói của GV để dẫn dắt, kích thích sự tò mò của HS vào nhiệm vụ]".<br>
+      - Phương thức giao nhiệm vụ: [Mô tả rõ GV thao tác gì, ví dụ: trình chiếu slide câu hỏi lên bảng tương tác, phát phiếu học tập số 1, hay gửi link vào nhóm lớp].<br>
+      - NỘI DUNG ĐỀ BÀI / YÊU CẦU (BẮT BUỘC GHI TRỌN VẸN VÀO ĐÂY): "[Bạn BẮT BUỘC phải viết toàn bộ nguyên văn nội dung câu hỏi, đề bài toán, bài tập SGK hoặc yêu cầu thực hành. TUYỆT ĐỐI KHÔNG ghi chung chung kiểu 'GV cho HS làm bài tập'. BẮT BUỘC dùng thẻ br tách dòng TỪNG ĐÁP ÁN A, B, C, D nếu có và tách từng ý a) b) c) ... nếu có]".<br>
       <b>Bước 2: Thực hiện nhiệm vụ</b><br>
-      - (Mô tả kịch bản 4 pha NLS. HS làm gì, GV hỗ trợ ra sao).<br>
+      - Thao tác GV (Pha 1): [Mô tả chi tiết GV mở nền tảng/phần mềm gì, thao tác tạo mã QR/Link ra sao, chiếu lên màn hình lớn như thế nào].<br>
+      - Thao tác HS (Pha 2): [Mô tả chi tiết HS dùng thiết bị gì, truy cập vào đâu, bắt đầu thao tác gì trên giao diện như click, kéo thả, vẽ đồ thị, hay chụp ảnh nộp bài].<br>
+      - Diễn biến trực tiếp (Pha 3): [Mô tả không khí realtime: Màn hình của GV đang hiển thị bảng xếp hạng nhảy liên tục, hay lưới ảnh bài làm của HS đang dần hiện lên].<br>
+      - Hỗ trợ & Gỡ rối: [Dự đoán chính xác 1 lỗi sai/khó khăn phổ biến mà HS sẽ gặp phải khi làm bài. Ghi nguyên văn câu gợi ý của GV để giúp HS vượt qua].<br>
       <b>Bước 3: Báo cáo, thảo luận</b><br>
-      - (Gọi HS, phản biện chéo, lời thoại đào sâu).<br>
+      - Kịch bản gọi tên: [Mô tả GV chỉ định ngẫu nhiên hay chọn nhóm làm nhanh nhất lên trình bày, hoặc GV tự mở bài của 1 nhóm trên nền tảng số để cả lớp xem].<br>
+      - Phản biện chéo: "[Ghi nguyên văn câu hỏi của GV dùng để kích thích các HS/Nhóm khác nhận xét, tìm lỗi sai của bạn]".<br>
+      - Câu hỏi đào sâu: "[Ghi nguyên văn 1 câu hỏi mở rộng nhằm kích thích tư duy cho HS khá giỏi]".<br>
       <b>Bước 4: Kết luận, nhận định</b><br>
-      - (Chốt kiến thức, khai thác dữ liệu số).
+      - Khai thác dữ liệu số (Pha 4): [Mô tả cách GV nhìn vào dữ liệu từ phần mềm (vd: phổ điểm, tỷ lệ sai câu 2 cao) để phân tích và xoáy sâu vào lỗi sai đó].<br>
+      - Chốt kiến thức: "[Ghi nguyên văn lời GV chốt lại đáp án chuẩn và kiến thức trọng tâm của hoạt động]".<br>
+      - Đánh giá: [GV dùng công cụ/rubric gì để chấm điểm nhanh, tuyên dương sự cố gắng của HS].
     </td>
     <td valign="top">
-      <b>1. Nội dung kiến thức:</b><br>
-      a) Định nghĩa...<br>
-      b) Lời giải...<br>
-      (TUYỆT ĐỐI KHÔNG ghi lại đề. Dùng br tách dòng Toán học dài).
+      <b>1. Nội dung kiến thức / Kết quả thực hiện:</b><br>
+      - [Ghi thẳng đáp án cuối cùng, lời giải từng bước chi tiết, hoặc mô tả hình thái sản phẩm số mà HS tạo ra].<br>
+      - (TUYỆT ĐỐI KHÔNG ghi lại/chép lại đề bài vào cột này. Mọi nội dung Toán học phải dùng chuẩn định dạng LaTeX. BẮT BUỘC dùng thẻ br để ngắt dòng cho từng ý a), b), c) và ngắt dòng các công thức toán học dài để chống vỡ bảng).
     </td>
     <td valign="top">
-      - <b>[Mã NLS]:</b> [Mô tả chi tiết].
+      - <b>[Mã NLS]:</b> [Tên biểu hiện năng lực] + [Mô tả hành động số cực kỳ chi tiết của HS. Ví dụ: HS sử dụng điện thoại thông minh quét mã QR truy cập Wayground, nhập tên thật và thao tác chọn đáp án trên màn hình].
     </td>
   </tr>
 </table>
