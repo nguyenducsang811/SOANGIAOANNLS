@@ -365,19 +365,19 @@ Toàn bộ tiến trình dạy học gồm 4 hoạt động chính (1. Khởi đ
       <b>Bước 1: Chuyển giao nhiệm vụ</b><br>
       - Thời gian dự kiến: ... phút.<br>
       - Lời chuyển ý: "..."<br>
-      - (Trích nguyên văn đề SGK. Dùng thẻ br để tách dòng TỪNG ĐÁP ÁN A, B, C, D hoặc a, b, c).<br>
+      - GV trình chiếu và giao nhiệm vụ cho HS: "[Viết rõ toàn bộ nội dung câu hỏi, đề bài, bài tập hoặc yêu cầu thực hành vào đây. BẮT BUỘC dùng thẻ br tách dòng TỪNG ĐÁP ÁN A, B, C, D nếu có và tách từng ý a) b) c) ... nếu có]".<br>
       <b>Bước 2: Thực hiện nhiệm vụ</b><br>
-      - (Mô tả chi tiết kịch bản 4 pha NLS. HS làm gì trên máy, GV quan sát hỗ trợ ra sao, dự kiến lỗi sai).<br>
+      - (Mô tả kịch bản 4 pha NLS. HS làm gì, GV hỗ trợ ra sao).<br>
       <b>Bước 3: Báo cáo, thảo luận</b><br>
-      - (Mô tả rõ kịch bản gọi HS, phản biện chéo, lời thoại đào sâu).<br>
+      - (Gọi HS, phản biện chéo, lời thoại đào sâu).<br>
       <b>Bước 4: Kết luận, nhận định</b><br>
-      - (Lời chốt kiến thức, khai thác dữ liệu số, câu nói chuyển ý).
+      - (Chốt kiến thức, khai thác dữ liệu số).
     </td>
     <td valign="top">
       <b>1. Nội dung kiến thức:</b><br>
       a) Định nghĩa...<br>
       b) Lời giải...<br>
-      (TUYỆT ĐỐI KHÔNG ghi lại đề bài vào cột này. Dùng thẻ br để tách dòng Toán học dài).
+      (TUYỆT ĐỐI KHÔNG ghi lại đề. Dùng br tách dòng Toán học dài).
     </td>
     <td valign="top">
       - <b>[Mã NLS]:</b> [Mô tả chi tiết].
