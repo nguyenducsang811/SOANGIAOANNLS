@@ -295,7 +295,7 @@ Dưới đây là các nguyên tắc và chỉ thị NGHIÊM NGẶT bạn phải
 Kế hoạch bài dạy phải trình bày đầy đủ các phần: Thông tin chung; Mục tiêu; Thiết bị và học liệu; Tiến trình dạy học.
 
 **Mẫu code HTML BẮT BUỘC cho mục I và II (Phải giữ nguyên đúng định dạng HTML này):**
-html
+\\\`\\\`\\\`html
 <p><b>I. MỤC TIÊU</b></p> 
 <p><b>1. Kiến thức:</b><br>
 - [Ghi các yêu cầu kiến thức bám sát bài học, mỗi ý 1 dòng. AI phải tự biên soạn lại theo cách diễn đạt mới, không sao chép nguyên văn giáo án gốc. Nếu nội dung kiến thức dài hoặc có nhiều ý thì phải tự chia thành các ý nhỏ rõ ràng để đảm bảo mạch trình bày logic và dễ theo dõi].<br>
@@ -332,6 +332,7 @@ html
 - SGK [Tên bộ sách tương ứng].<br>
 - Vở, dụng cụ học tập (bút, thước thẳng, tẩy, ...), máy tính cầm tay.<br>
 - [Thiết bị số phục vụ cho các hoạt động học tập, tương tác, cộng tác hoặc khai thác học liệu số nếu điều kiện lớp học cho phép].</p>
+\\\`\\\`\\\`
 
 **PHẦN TIẾN TRÌNH DẠY HỌC:**
 **LƯU Ý ĐẶC BIỆT: TẤT CẢ CÁC HOẠT ĐỘNG NÀY ĐỀU BẮT BUỘC TRÌNH BÀY DƯỚI DẠNG BẢNG 3 CỘT HTML ĐỂ CHỐNG VỠ BẢNG WORD.**
@@ -346,7 +347,7 @@ html
 6. **KIỂM SOÁT ĐỊNH DẠNG VÀ ĐỘ DÀI CÔNG THỨC TOÁN (CHUẨN MATHTYPE):** Mọi công thức Toán học BẮT BUỘC phải viết bằng mã LaTeX chuẩn để GV có thể copy thẳng vào MathType. Do độ rộng cột trong Word chỉ khoảng 8cm, nếu công thức Toán học quá dài sẽ làm vỡ bảng khi GV chuyển đổi sang MathType. Bạn **BẮT BUỘC phải chủ động ngắt nhỏ các công thức LaTeX dài** thành nhiều dòng (sử dụng dấu \\\\ trong môi trường toán học, hoặc ngắt thành các đoạn công thức ngắn nối với nhau bằng thẻ <br>). Tuyệt đối không để một phương trình hay một dãy biến đổi chạy dài liên tục quá 8cm.
 
 **Mẫu code HTML BẮT BUỘC cho mỗi hoạt động (hoặc hoạt động nhỏ/bài tập):**
-html
+\\\`\\\`\\\`html
 <p><b>a. Mục tiêu:</b> [AI phải ghi rõ mục tiêu hình thành kiến thức, phát triển năng lực và biểu hiện NLS của hoạt động. Nội dung phải được biên soạn mới, không sao chép nguyên giáo án gốc. Nếu hoạt động có nhiều nhiệm vụ hoặc nhiều nội dung thì AI phải chủ động chia thành các hoạt động nhỏ/nhiệm vụ nhỏ theo tiến trình hợp lí để đảm bảo mạch sư phạm rõ ràng].</p> 
 <p><b>b. Nội dung:</b> [Mô tả ngắn gọn nhiệm vụ học tập, tình huống học tập hoặc hoạt động học tập mà HS cần thực hiện. Nếu nội dung dài hoặc có nhiều phần thì phải chia thành từng nhiệm vụ nhỏ rõ ràng, tránh trình bày dồn khối gây rối mạch học tập].</p> 
 <p><b>c. Sản phẩm:</b> [Nêu rõ sản phẩm học tập HS cần hoàn thành như câu trả lời, bài giải, phiếu học tập, sản phẩm số, kết quả thảo luận, bài đăng Padlet, kết quả Quizizz,... Mỗi nhiệm vụ nhỏ phải có sản phẩm tương ứng rõ ràng].</p> 
@@ -389,7 +390,7 @@ html
       [CHỈ GHI KẾT QUẢ, ĐÁP ÁN, LỜI GIẢI CHI TIẾT TỪNG BƯỚC, hoặc NỘI DUNG LÝ THUYẾT CỐT LÕI (định nghĩa, định lý, quy tắc). Viết rành mạch tự nhiên. ĐÂY CHÍNH LÀ NỘI DUNG TRỌNG TÂM GV SẼ TRÌNH CHIẾU SLIDE HOẶC TRỰC TIẾP VIẾT BẢNG để HS ghi vở].<br> 
       [**TẬN DỤNG TUYỆT ĐỐI LỜI GIẢI CÓ SẴN:** Đối với các ví dụ, bài tập, luyện tập, vận dụng... nếu **ĐÃ CÓ SẴN** lời giải/đáp án trong SGK hoặc trong file giáo án gốc, bạn **BẮT BUỘC phải kế thừa và sử dụng lại chính xác lời giải đó** (chỉ rà soát lại để đảm bảo đúng). Tuyệt đối không tự ý "bịa" hay viết lại lời giải mới theo cách khác gây sai lệch. **CHỈ ĐƯỢC PHÉP tự giải** đối với những bài tập hoàn toàn chưa có lời giải trong SGK hoặc giáo án mẫu.].<br>
       [TUYỆT ĐỐI KHÔNG CHÉP LẠI ĐỀ BÀI HOẶC CÂU HỎI VÀO CỘT NÀY. Việc lặp lại đề bài là vi phạm quy tắc trình bày. BẮT BUỘC phải dùng thẻ &lt;br&gt; để xuống dòng và phân tách rành mạch giữa các mục nội dung khác nhau].<br> 
-      [TUYỆT ĐỐI KHÔNG lạm dụng gạch đầu dòng ("-" hoặc "+") ở đầu mỗi dòng khi trình bày các bước giải toán, biến đổi phương trình liên tục. Chỉ dùng thẻ &lt;br&gt; để xuống dòng].<br> 
+      [CHỐNG LẠM DỤNG GẠCH ĐẦU DÒNG ("-" HOẶC "+"): Tuyệt đối không lạm dụng dấu "-" hoặc "+" một cách máy móc ở đầu mỗi dòng, đặc biệt là trong các bước giải toán, biến đổi phương trình hoặc văn bản suy luận liên tục. Khi cần xuống dòng, CHỈ ĐƯỢC PHÉP dùng thẻ '<br>', không được tự ý thêm dấu "-" ở đầu dòng gây rối mắt. Chỉ sử dụng dấu "-" khi thực sự cần thiết để liệt kê danh sách, tuyệt đối không dùng cho các bước giải bài toán].<br> 
       [Nếu nội dung kiến thức dài hoặc có nhiều trường hợp thì AI phải tự chia nhỏ thành từng ý, từng bước hoặc từng nhiệm vụ để đảm bảo dễ theo dõi].<br> 
       [Cột này CHỈ ĐƯỢC CHỨA ĐÁP ÁN CHUẨN/KIẾN THỨC CHUẨN. TUYỆT ĐỐI KHÔNG ghi các câu miêu tả hành động, trạng thái hay tiến trình. Mọi hành vi tương tác phải nằm ở cột 1].<br> 
       [Mọi nội dung Toán học bắt buộc dùng chuẩn định dạng LaTeX để tương thích công cụ MathType. BẮT BUỘC dùng thẻ br để ngắt dòng cho từng ý a), b), c) và ngắt dòng các công thức toán học quá dài không quá 8cm]. 
@@ -400,6 +401,7 @@ html
     </td> 
   </tr> 
 </table>
+\\\`\\\`\\\`
 
 ### 5. QUY TẮC HÀNH VĂN (TIẾN TRÌNH CÔ ĐỌNG, CHẮC Ý VÀ SIÊU CHI TIẾT)
 * **CẤM VIẾT LỜI THOẠI TRỰC TIẾP (KHÔNG DÙNG NGOẶC KÉP CHO LỜI NÓI):** Giáo án là bản hướng dẫn hành động sư phạm. Bạn phải dùng lối văn trần thuật hành động. 
